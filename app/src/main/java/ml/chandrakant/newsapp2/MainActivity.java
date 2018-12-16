@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements
     private ProgressBar progressBar;
 
     private static final String GUARDIAN_BASE_URL_STRING = "https://content.guardianapis.com/search";
-    private static final String apiKey = "da37201a-f618-45e5-9248-287c214ba0a7";
+    private static final String apiKey = "test";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
